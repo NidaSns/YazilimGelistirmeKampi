@@ -10,7 +10,7 @@ namespace Koleksiyonlar
             String[] isimler = new string[] { "Engin","Murat","Kerem","Halil"};
             //koleksiyon da ekleme yapmak daha kullanışlı diziye göre
             List<string> isimler2 = new List<string> { "Engin", "Murat", "Kerem", "Halil" };
-            isimler2.Add(string ekle);
+           // isimler2.Add(string ekle);
         }
     }
 }
