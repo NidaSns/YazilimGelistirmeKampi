@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32802.440
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{B304CF4A-0658-4717-BCA8-DF09300568F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calisma", "ConsoleApp1\Calisma.csproj", "{B304CF4A-0658-4717-BCA8-DF09300568F1}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matematik", "Matematik\Matematik.csproj", "{0DF88B26-5277-43CE-A4EA-DCD63AA1C5C6}"
 EndProject
@@ -19,7 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oop2", "Oop2\Oop2.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{02ED2425-18B3-4E60-8AC3-F38BA052C127}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceAbstractDemo", "InterfaceAbstractDemo\InterfaceAbstractDemo.csproj", "{D128F7C1-CF8F-4BE3-9AC8-78C8E767482A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceAbstractDemo", "InterfaceAbstractDemo\InterfaceAbstractDemo.csproj", "{D128F7C1-CF8F-4BE3-9AC8-78C8E767482A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OdevBes", "OdevBes\OdevBes.csproj", "{105AE8C2-774D-40B0-AAD0-6D29F3E3073C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Linq", "Linq\Linq.csproj", "{AB69BD58-C998-4827-8EE3-39FAC5DAB239}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,14 @@ Global
 		{D128F7C1-CF8F-4BE3-9AC8-78C8E767482A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D128F7C1-CF8F-4BE3-9AC8-78C8E767482A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D128F7C1-CF8F-4BE3-9AC8-78C8E767482A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{105AE8C2-774D-40B0-AAD0-6D29F3E3073C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{105AE8C2-774D-40B0-AAD0-6D29F3E3073C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{105AE8C2-774D-40B0-AAD0-6D29F3E3073C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{105AE8C2-774D-40B0-AAD0-6D29F3E3073C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB69BD58-C998-4827-8EE3-39FAC5DAB239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB69BD58-C998-4827-8EE3-39FAC5DAB239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB69BD58-C998-4827-8EE3-39FAC5DAB239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB69BD58-C998-4827-8EE3-39FAC5DAB239}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

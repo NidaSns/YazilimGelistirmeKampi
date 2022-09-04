@@ -30,6 +30,8 @@ namespace ConsoleApp1
             SepetManager sepetManager = new SepetManager();
             sepetManager.Ekle(urun1);
             sepetManager.Ekle(urun2);
+
+
         }
     }
 }
